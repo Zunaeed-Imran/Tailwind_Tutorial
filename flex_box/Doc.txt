@@ -1,0 +1,8 @@
+## what we learn from this file.
+- learn horizontal auto position.
+- learn flex.
+- learn (gap-1) in flex box.
+- learn flex colum.
+- learn flex justify-center.
+- learn (items-center) 
+- 
