@@ -1,0 +1,5 @@
+## what we learn in this folder.
+- we lern to use hight in tailwind.
+- we lern hover color change.
+- learn gradient.
+- learn hover gradient right to left.

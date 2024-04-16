@@ -14,9 +14,10 @@ learn from code ABC
 
 ##### Done task for today
 - Learning Tailwind CSS.
-- Learning Height and width class.
+- Learning Height and width class in tailwind.
 - Learning Color in tailwind CSS.
 - Learning Tailwind Typography.
-- Learning margin & padding.
-- Learning Border & radious.
+- Learning margin & padding tailwind.
+- Learning Border & radious in tailwind.
+- Learning Gradiant color and hover effect.
 - 
