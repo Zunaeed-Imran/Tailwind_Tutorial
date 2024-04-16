@@ -1,0 +1,6 @@
+## what we learn from this folder.
+- we lern grid and column grid.
+- we learn span in grid.
+- we learn col span.
+- we learn row span.
+- we learn advanced grid, to form etc.

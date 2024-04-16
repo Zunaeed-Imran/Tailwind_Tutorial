@@ -21,4 +21,5 @@ learn from code ABC
 - Learning Border & radious in tailwind.
 - Learning Gradiant color and hover effect.
 - Learning Flexbox in tailwind.
+- Learning Grid in tailwind css.
 - 
