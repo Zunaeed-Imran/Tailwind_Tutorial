@@ -9,10 +9,12 @@ learn from code ABC
 - i learn custom color need []
 - in tailwind h1, h2, etc head don't work.
 - in tailwind extension inteligense, make environment more friendly.
+- if i have writter text-left but another class is color, i have to write again text.(in the same class)
 - 
 
 ##### Done task for today
 - Learning Tailwind CSS.
 - Learning Height and width class.
 - Learning Color in tailwind CSS.
+- Learning Tailwind Typography.
 - 

@@ -1,0 +1,7 @@
+## what we learn in this file 
+- color in tailwind.
+- custom color in tailwind.
+- width in tailwind.
+- custom  width in tailwind.
+- height in tailwind 
+- custom height in taildind.
