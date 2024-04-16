@@ -18,4 +18,5 @@ learn from code ABC
 - Learning Color in tailwind CSS.
 - Learning Tailwind Typography.
 - Learning margin & padding.
+- Learning Border & radious.
 - 
