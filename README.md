@@ -12,6 +12,7 @@ learn from code ABC
 - if i have writter text-left but another class is color, i have to write again text.(in the same class)
 - 
 
+
 ##### Done task for today
 - Learning Tailwind CSS.
 - Learning Height and width class in tailwind.
@@ -22,4 +23,4 @@ learn from code ABC
 - Learning Gradiant color and hover effect.
 - Learning Flexbox in tailwind.
 - Learning Grid in tailwind css.
-- 
+- Learning Responsive design mobile tablet laptop.
