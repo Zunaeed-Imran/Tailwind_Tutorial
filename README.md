@@ -1,9 +1,23 @@
 # Tailwind_Tutorial
 learn from code ABC
 
-### Tailwind CSS Setup Step
+### Tailwind CSS basic Setup Step
 - first search the CDN and copy the CDN script
 - and than pest it to my HTML head.
+
+### Tailwind Professional Setup Step.
+- first install node js.
+- also need npm.
+- add a git ignore file.
+- `npm init -y`
+- Go to tailwnd documentation and follow.
+- `npm install -D tailwindcss`
+- `npx tailwindcss init`
+- than tailwind config file setup form documentation copy and past.
+- than make a src file.
+- than make a input.css file. and copy past from documentation.
+- 
+
 
 ### what i have learn form this tutorial.
 - i learn custom color need []
