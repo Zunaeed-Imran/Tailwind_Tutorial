@@ -1,7 +1,0 @@
-## what we learn from this folder.
-- we learn rotate in tailwind.
-- we learn translate in x-axis.
-- we learn custom translate pixel value.
-- learn transition for to slow look good.
-- also set duration when transition.
-- i set duration 1-sec[1000mili/second] and it work with mouse click.

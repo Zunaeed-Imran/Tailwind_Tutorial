@@ -47,4 +47,5 @@ learn from code ABC
 - Learning Animation and Transition in Tailwind css.
 - Practicing Animation and Transition.
 - Learning professional setup.
+- Practicing Card Component.
 - 

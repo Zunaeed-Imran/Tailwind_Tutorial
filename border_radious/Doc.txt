@@ -1,5 +1,0 @@
-## what we learn form this foler.
-- i learn rounder the background.
-- i learn custom rounder background in tailwind.
-- i lern boder in tailwind.
-- color the border.

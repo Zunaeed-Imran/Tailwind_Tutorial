@@ -1,9 +1,0 @@
-## what we learn in this file.
-- we learn padding in tailwind.
-- horizontal and vartical padding.
-- padding left in tailwind.
-- padding top.
-- padding right.
-- padding bottom.
-- we learn margin in tailwind.
-- 

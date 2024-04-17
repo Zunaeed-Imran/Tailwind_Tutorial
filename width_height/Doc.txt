@@ -1,3 +1,0 @@
-## what we learn in this file.
-- very basic color in tailwind.
-- very basic hight in tailwind.
