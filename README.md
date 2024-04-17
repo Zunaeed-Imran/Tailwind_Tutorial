@@ -24,3 +24,8 @@ learn from code ABC
 - Learning Flexbox in tailwind.
 - Learning Grid in tailwind css.
 - Learning Responsive design mobile tablet laptop.
+
+- Learning Animation and Transition in Tailwind css.
+- Practicing Animation and Transition.
+- Learning professional setup.
+- 

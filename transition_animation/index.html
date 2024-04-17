@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <title>Transition and Animation</title>
+</head>
+<body>
+  <h1 class="pb-10 text-center bg-green-400">Transition and Animation</h1>
+
+  <div class="bg-black sm:bg-red-500 md:bg-blue-500 xl:bg-yellow-500 2xl:bg-gray-500 flex">
+
+    <div class="pt-10 w-[140px] h-[140px] rounded-full text-center bg-sky-500 hover:rotate-3">
+      Rotate.
+    </div>
+    
+    <div class="pt-10 w-[140px] h-[140px] rounded-full text-center bg-emerald-700 hover:translate-x-6">
+      Translate.
+    </div>
+    
+    <div class="pt-10 w-[140px] h-[140px] rounded-full text-center bg-lime-700 hover:translate-x-[180px] hover:translate-y-[180px] transition duration-1000 hover:rotate-180 ">
+      translate
+      and transition set
+    </div>
+
+    <div class="pt-10 w-[140px] h-[140px] rounded-full text-center bg-lime-700 hover:-translate-x-[180px] hover:-translate-y-[180px] transition duration-1000 hover:rotate-180 ">
+      translate
+      and transition set
+      reverse
+    </div>
+
+    <div class="pt-10 w-[140px] h-[140px] rounded-full text-center bg-indigo-500 hover:translate-x-[180px] hover:translate-y-[180px] transition duration-[3000ms] hover:rotate-[360deg] ">
+      translate
+      and transition set
+      custom duration
+      customrotete
+    </div>
+    
+  </div>
+</body>
+</html>
