@@ -4,4 +4,4 @@
 
 - we learn apply shadow in this project.
 
-- 
+- by using item center we can set the text center.
