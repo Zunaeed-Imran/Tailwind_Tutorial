@@ -558,10 +558,6 @@ video {
   display: flex;
 }
 
-.h-2 {
-  height: 0.5rem;
-}
-
 .h-20 {
   height: 5rem;
 }
@@ -570,8 +566,8 @@ video {
   min-height: 100vh;
 }
 
-.w-2 {
-  width: 0.5rem;
+.w-1\/2 {
+  width: 50%;
 }
 
 .w-20 {
@@ -582,20 +578,8 @@ video {
   width: 100vw;
 }
 
-.w-1\/2 {
-  width: 50%;
-}
-
-.max-w-5xl {
-  max-width: 64rem;
-}
-
 .items-center {
   align-items: center;
-}
-
-.justify-start {
-  justify-content: flex-start;
 }
 
 .justify-center {
