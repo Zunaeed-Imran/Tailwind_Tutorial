@@ -1,16 +1,3 @@
 ### what we learn from this file.
-- we use flex and justify center in the card div, to make the card center.
 
-- we also use item-center
-
-- we use padding for text down.
-
-- we can write extarnal css in the input css file.
-
-- in this project we use image in the input css and use it in the card component class.
-
-- we text color change in the parent div.
-
-- we learn justify between.
-
-- simple trick (bg-color change to see the area of div.)
+- 
