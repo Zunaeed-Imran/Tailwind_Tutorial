@@ -9,4 +9,8 @@
 
 - in this project we use image in the input css and use it in the card component class.
 
-- 
+- we text color change in the parent div.
+
+- we learn justify between.
+
+- simple trick (bg-color change to see the area of div.)
