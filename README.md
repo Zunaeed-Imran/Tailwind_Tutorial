@@ -48,4 +48,5 @@ learn from code ABC
 - Practicing Animation and Transition.
 - Learning professional setup.
 - Practicing Card Component.
+- Practicing responsive card design.
 - 

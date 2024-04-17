@@ -1,3 +1,7 @@
 ### what we learn from this file.
 
+- we use justify, and item-center.
+
+- we learn apply shadow in this project.
+
 - 
