@@ -30,6 +30,7 @@ learn from code ABC
 - in tailwind extension inteligense, make environment more friendly.
 - if i have writter text-left but another class is color, i have to write again text.(in the same class)
 - For Responsive small page we don't need to mention but for medium should mention md.
+- for responsive when we use absolute and relative, for md-screen we can set static.
 
 
 ##### Done task for today
