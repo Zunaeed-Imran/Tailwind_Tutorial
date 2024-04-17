@@ -29,7 +29,7 @@ learn from code ABC
 - in tailwind h1, h2, etc head don't work.
 - in tailwind extension inteligense, make environment more friendly.
 - if i have writter text-left but another class is color, i have to write again text.(in the same class)
-- 
+- For Responsive small page we don't need to mention but for medium should mention md.
 
 
 ##### Done task for today
@@ -47,4 +47,7 @@ learn from code ABC
 - Learning Animation and Transition in Tailwind css.
 - Practicing Animation and Transition.
 - Learning professional setup.
+- Practicing card component in tailwind.
+- Practicing responsive form design.
+- Practicing complex process design.
 - 
