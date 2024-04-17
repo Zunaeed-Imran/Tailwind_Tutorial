@@ -16,7 +16,12 @@ learn from code ABC
 - than tailwind config file setup form documentation copy and past.
 - than make a src file.
 - than make a input.css file. and copy past from documentation.
-- 
+- than package.json line 7 change by `tailwindcss -i ./src/input.css -o ./src/output.css --watch` and we name the file `build` to test.
+- than make a index.html in src file.
+- than `npm run build` 
+- than link the `output.css` file in the html.
+- than run the command in the terminal. `npx tailwindcss -i ./src/input.css -o ./src/output.css --watch`
+- than we can use the tailwind css.
 
 
 ### what i have learn form this tutorial.
